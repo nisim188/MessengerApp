@@ -8,20 +8,12 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:75357905758:android:ed020b16a3843f19",
+        "mobilesdk_app_id": "1:75357905758:android:1d0b36cde691d9a22225cf",
         "android_client_info": {
           "package_name": "com.example.nisim.messengerapp"
         }
       },
       "oauth_client": [
-        {
-          "client_id": "75357905758-u79at2pls0v7cdf7kjjhr9bhcvssj9ht.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.example.nisim.messengerapp",
-            "certificate_hash": "f2a013507ef65ad7411af818bdd83a7cc667dab8"
-          }
-        },
         {
           "client_id": "75357905758-io3gds3accr5e6dd757r8dlqagqkcf0f.apps.googleusercontent.com",
           "client_type": 3
@@ -33,20 +25,13 @@
         }
       ],
       "services": {
-        "analytics_service": {
-          "status": 1
-        },
         "appinvite_service": {
-          "status": 2,
           "other_platform_oauth_client": [
             {
               "client_id": "75357905758-io3gds3accr5e6dd757r8dlqagqkcf0f.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
-        },
-        "ads_service": {
-          "status": 2
         }
       }
     }
